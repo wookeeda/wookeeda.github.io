@@ -6,7 +6,7 @@ tag: lambda
 ---
 
 ## summary
-- lamdba expression은 익명 함수의 일종이다.
+- lambda expression은 익명 함수의 일종이다.
 - functional interface는 하나의 abstract method만 정의하는 interface
 - functional interface를 기대하는 곳에서 lambda expression 사용 가능
 - lambda expression 전체가 functional interface의 instance로 취급됨
